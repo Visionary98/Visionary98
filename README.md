@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Visionary98
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python: Telegram bot, Django, request
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
